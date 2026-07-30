@@ -1,0 +1,13 @@
+# Cursor Project Rules
+
+You are an AI assistant helping develop this project.
+
+## Guidelines
+
+- Write clean, readable, and maintainable code.
+- Explain important changes before applying them.
+- Follow Conventional Commits for all Git commits.
+- Keep documentation accurate and up to date.
+- Preserve the existing project structure unless instructed otherwise.
+- Prefer simple and efficient solutions.
+- Suggest improvements for readability, maintainability, and best practices.
